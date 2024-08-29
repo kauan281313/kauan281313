@@ -12,4 +12,4 @@ kauan.rosa.rodrigues@escola.pr.gov.br
 
 @kauan_cwe_
 
-![_](https://media1.tenor.com/m/TXf3v8GTk-sAAAAd/the-boys-homelander.gif)
+![_](https://media1.tenor.com/m/DGHtbTgoAGQAAAAC/the-boys-homelander.gif)
