@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @kauan281313
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Kauan prazer em conhece-los e bem vindo ao meu perfil 🖤
 
-<!---
-kauan281313/kauan281313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Kauan
+
+- Estou estudando no COLEGIO Pimpão que o arthur game play MANDA!!!!
+- Estou estudando alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📫
+ 
+kauan.rosa.rodrigues@escola.pr.gov.br
+
+@kauan_cwe_
+
+![_](https://media1.tenor.com/m/TXf3v8GTk-sAAAAd/the-boys-homelander.gif)
